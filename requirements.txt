@@ -2,5 +2,13 @@ streamlit
 openai
 bcrypt
 python-dotenv
-sqlalchemy
-requests
+langchain
+langchain-core
+langchain-community
+langchain-openai
+faiss-cpu
+pypdf
+python-docx
+transformers
+torch
+
